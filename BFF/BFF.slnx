@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BFF.Mobile/BFF.Mobile.csproj" />
+    <Project Path="src/BFF.Web/BFF.Web.csproj" />
+  </Folder>
+  <Folder Name="/src/BackendServices/">
+    <Project Path="src/BackendServices/OrderService/OrderService.csproj" />
+    <Project Path="src/BackendServices/ProductService/ProductService.csproj" />
+    <Project Path="src/BackendServices/UserService/UserService.csproj" />
+  </Folder>
+  <Folder Name="/src/Shared/">
+    <Project Path="src/Shared/BFF.Shared.csproj" />
+  </Folder>
+</Solution>
